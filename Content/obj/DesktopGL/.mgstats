@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/ksportalcraft/Documents/XNA/DalePetJump/Content/dale_pet.png","/home/ksportalcraft/Documents/XNA/DalePetJump/Content/bin/DesktopGL/Content/dale_pet.xnb","TextureProcessor","Texture2DContent",270,4181,0.12258
+"/home/ksportalcraft/Documents/XNA/DalePetJump/Content/platform.png","/home/ksportalcraft/Documents/XNA/DalePetJump/Content/bin/DesktopGL/Content/platform.xnb","TextureProcessor","Texture2DContent",171,1109,0.0047781
